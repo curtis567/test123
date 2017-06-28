@@ -1,0 +1,8 @@
+C:\pick\test123\test0628\test0628\bin\Debug\test0628.exe.config
+C:\pick\test123\test0628\test0628\bin\Debug\test0628.exe
+C:\pick\test123\test0628\test0628\bin\Debug\test0628.pdb
+C:\pick\test123\test0628\test0628\obj\Debug\test0628.csprojResolveAssemblyReference.cache
+C:\pick\test123\test0628\test0628\obj\Debug\test0628.Properties.Resources.resources
+C:\pick\test123\test0628\test0628\obj\Debug\test0628.csproj.GenerateResource.Cache
+C:\pick\test123\test0628\test0628\obj\Debug\test0628.exe
+C:\pick\test123\test0628\test0628\obj\Debug\test0628.pdb
